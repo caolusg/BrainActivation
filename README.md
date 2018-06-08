@@ -11,7 +11,7 @@ We address this task, with competitive results, by using instead a semantic netw
 **Semantic network (wnet2vec)**
 
 The wnet2vec model referred in the article is available for [download](http://lxcenter.di.fc.ul.pt/wnet2vec_brain.tar.gz).
-The model was obtained resorting to 60,000 words using Princeton WordNet 3.0, the training of the model is described in *Chakaveh Saedi, António Branco, João Rodrigues and João Silva, 2018, Wordnet embeddings, In Proceedings of the ACL2018 3rd Workshop on Representation Learning for Natural Language Processing (RepL4NLP)*. 
+The model was obtained resorting to 60,000 words using Princeton WordNet 3.0, the training of the model is described in *Chakaveh Saedi, António Branco, João Rodrigues and João Silva, 2018, (Wordnet embeddings)[https://sites.google.com/site/repl4nlp2018/accepted-papers], In Proceedings of the ACL2018 3rd Workshop on Representation Learning for Natural Language Processing (RepL4NLP)*. 
 
 **Evaluation and scripts**
 
@@ -19,7 +19,7 @@ The [evaluation folder](https://github.com/nlx-group/Semantic-Brain-Activation/t
 
 The [scripts folder](https://github.com/nlx-group/Semantic-Brain-Activation/tree/master/scripts) contains the plotting scripts of the fMRI activation patterns (Figure 1). 
 
-The Mitchell et al. model is described in *Tom M. Mitchell, Svetlana V. Shinkareva, Andrew Carlson, Kai-Min Chang, Vicente L. Malave, Robert A. Mason and Marcel Adam Just, 2008, Predicting human brain activity associated with the meanings of nouns, Sciece, 320(5880):1191-1195*.
+The Mitchell et al. model is described in *Tom M. Mitchell, Svetlana V. Shinkareva, Andrew Carlson, Kai-Min Chang, Vicente L. Malave, Robert A. Mason and Marcel Adam Just, 2008, Predicting human brain activity associated with the meanings of nouns, Science, 320(5880):1191-1195*.
 
 The training system is provided at the [Samira Abnar repository](https://github.com/samiraabnar/NeuroSemantics/) and described in *Abnar, Samira, Rasyan Ahmed, Max Mijnheer and Willem Zuidema, 2018, Experiential, distributional and dependency-based word embeddings have complementary roles in decoding brain activity, In Proceedings of the 8th Workshop on Cognitive Modeling and Computational Linguistics (CMCL 2018)*.
 
