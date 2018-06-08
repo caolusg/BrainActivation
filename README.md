@@ -13,7 +13,7 @@ We address this task, with competitive results, by using instead a semantic netw
 The wnet2vec model referred in the article is available for [download](http://lxcenter.di.fc.ul.pt/wn2vec.zip).
 The model was obtained resorting to 60,000 words using Princeton WordNet 3.0, the training of the model is described in *Chakaveh Saedi, António Branco, João Rodrigues and João Silva, 2018, Wordnet embeddings, In Proceedings of the ACL2018 3rd Workshop on Representation Learning for Natural Language Processing (RepL4NLP)*. 
 
-**Data and scripts**
+**Evaluation and scripts**
 
 The evaluation folder contains the log files for the wnet2vec evaluation (Table 1).
 
