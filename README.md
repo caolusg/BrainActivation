@@ -15,9 +15,9 @@ The model was obtained resorting to 60,000 words using Princeton WordNet 3.0, th
 
 **Evaluation and scripts**
 
-The evaluation folder contains the log files for the wnet2vec evaluation (Table 1).
+The [evaluation folder](https://github.com/nlx-group/Semantic-Brain-Activation/tree/master/evaluations) contains the log files for the wnet2vec model (Table 1).
 
-The plotting script of the fMRI activation patterns (Figure 1) can be found in [brain plot script](https://github.com/nlx-group/Semantic-Brain-Activation/blob/master/brain_plot.py). 
+The [scripts folder](https://github.com/nlx-group/Semantic-Brain-Activation/tree/master/scripts) contains the plotting scripts of the fMRI activation patterns (Figure 1). 
 
 The Mitchell et al. model is described in *Tom M. Mitchell, Svetlana V. Shinkareva, Andrew Carlson, Kai-Min Chang, Vicente L. Malave, Robert A. Mason and Marcel Adam Just, 2008, Predicting human brain activity associated with the meanings of nouns, Sciece, 320(5880):1191-1195*.
 
